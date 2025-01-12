@@ -9,3 +9,4 @@ Pour mieux s'organiser au quotidien, cette application permet d'/ de :
 Lorsque l'application est lancée, il y a une icône sur un fond bleue pendant quelques secondes. Suite à cela, on accède à la page d'accueil où nos tâches sont affichées. 
 Il y a bouton + en bas à droite de l'écran qui permet d'ajouter une tâche.
 Une fois la tâche effectuée, l'utilisateur peut cliquer sur cette dernière afin de remplir la checkbox pour la différencier des tâches, qui elles ne sont pas encore effectuées.
+En ce qui concerne l'édition des tâches, le nom de la tâche reste inchangé, le bouton save ne sera pas cliquable.
