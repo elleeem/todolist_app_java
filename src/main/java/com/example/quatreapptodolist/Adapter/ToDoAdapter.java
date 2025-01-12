@@ -64,7 +64,8 @@ public class ToDoAdapter extends RecyclerView.Adapter<ToDoAdapter.MyViewHolder> 
 
     @Override
     public int getItemCount() {
-        return mList.size();
+        //return mList.size();
+        return (mList != null) ? mList.size() : 0;
     }
 
     public void deleteTask(int position){

@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity implements OnDialogCloseList
         itemTouchHelper.attachToRecyclerView(recyclerView);
     }
 
+
     @Override
     public void onDialogClose(DialogInterface dialogInterface) {
         mList = myDB.getAllTasks();
